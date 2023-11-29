@@ -1,1 +1,1 @@
-# DIY Recording Equipment - G Series Bus Compressor Build
+# SSL G-Series Bus Compressor Build
