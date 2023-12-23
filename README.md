@@ -70,3 +70,35 @@
     [ ] CB20
     
 ```
+
+## Step 2: Power Sections
+
+```
+    Power 12V
+    [ ] U1 7812
+    [ ] U2 7912
+    [ ] C5 4.7uF BP
+    [ ] C6 4.7uF BP
+
+    Power 16V
+    [ ] L1 Inductor
+    [ ] L2 Inductor
+    [ ] C1 2200uF 25v 105c
+    [ ] C2 2200uF 25v 105c
+    [ ] C3 2200uF 25v 105c
+    [ ] C4 2220uF 25v 105c
+    [ ] J1 Female XLR-5 Pin (Power Thru)
+    [ ] J2 Male XLR-5 Pin (Power In)
+
+    [ ] Perforrm Power Rail Test
+      [ ] +16v
+      [ ] -16v
+      [ ] +12v
+      [ ] -12v
+```
+
+## Step 3: Control Boards  
+
+```
+    
+```
