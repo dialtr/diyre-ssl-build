@@ -273,6 +273,10 @@
     [ ] C19_1 100u
     [ ] C20_1 22u
 
+    Integrated Circuits (Install)
+    [ ] IC2_1 NE5532
+    [ ] IC3_1 NE5532
+
     Right Channel
 
     Resistors
@@ -300,5 +304,8 @@
     [ ] C19_2 100u
     [ ] C20_2 22u
 
+    Integrated Circuits (Install)
+    [ ] IC2_2 NE5532
+    [ ] IC3_2 NE5532
 
 ```
