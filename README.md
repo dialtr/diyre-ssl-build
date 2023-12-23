@@ -170,19 +170,6 @@
 ## Step 4: Relays and Misc
 
 ```
-    Balanced Input / Output L
-
-    Resistors
-    [ ] R20_1 4K7 
-    [ ] R21_1 100R
-    [ ] R22_1 4K7
-    [ ] R23_1 100R
-    [ ] R24_1 6K8
-    [ ] R25_1 300R
-    [ ] R26_1 300R
-
-    Balanced Input / Output R
-
     Resistors
     [ ] R1_1 2K2 
     [ ] R1_2 2K2 
@@ -218,23 +205,45 @@
     [ ] D3  1N4004 
     [ ] D11 1N4004 
 
+    Connectors
+    [ ] CON1 - 3-pin header - In meter section (lower-left)
+    [ ] CON2 - 16-pin header 
+    [ ] CON3 - 12-pin header
+    [ ] CON4 - 26-pin header
+    [ ] CON5 - 4-pin header - Lower middle section 
+
     Relays
     [ ] U3_1
     [ ] U3_1 
     [ ] U4
     [ ] U5
     [ ] U6  
+
+    ICs
+    [ ] IC1 - LF347N
+    [ ] IC7 - LF347N
+
+    Perform Relay Test
+    [ ] Ensure LF347N are inserted in IC1, IC7
+    [ ] Attach compression switch to Con5
+    [ ] Attach control board 1 to Con2 and Con3 via ribbon cable
+    [ ] Attach control board 2 to Con4 via ribbon cable
+    [ ] For Rev 1 boards Mono SC test will fail
+      Note: My board is not marked with a revision, and test failed
+    
 ```
 
 ```
-Note: Balanced I/O L
-    NOTES
-    [ ] R20_2 4K7
-    [ ] R21_2 100R
-    [ ] R22_2 4K7
-    [ ] R23_2 100R
-    [ ] R24_2 6K8
-    [ ] R25_2 300R
-    [ ] R26_2 300R
+    Balanced Input / Output L
+
+    Resistors
+    [ ] R20_1 4K7 
+    [ ] R21_1 100R
+    [ ] R22_1 4K7
+    [ ] R23_1 100R
+    [ ] R24_1 6K8
+    [ ] R25_1 300R
+    [ ] R26_1 300R
+
 
 ```
