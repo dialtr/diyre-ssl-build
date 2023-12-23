@@ -233,6 +233,18 @@
     
 ```
 
+## Step 5: Audio Jacks
+```
+    [ ] J3_1 TRS Jack
+    [ ] J3_2 TRS Jack
+    [ ] J4_1 XLR Male
+    [ ] J4_2 XLR Male
+    [ ] J5_1 XLR Female Combo
+    [ ] J5_2 XLR Female Combo
+    [ ] J6   XLR Female Combo
+``` 
+
+
 ```
     Balanced Input / Output L
 
