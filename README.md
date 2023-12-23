@@ -244,18 +244,29 @@
     [ ] J6   XLR Female Combo
 ``` 
 
-
+## Step 6: Balanced Input / Output and Unity Trim
 ```
-    Balanced Input / Output L
+    Left Channel
 
     Resistors
-    [ ] R20_1 4K7 
+    [ ] R20_1 4K7
     [ ] R21_1 100R
     [ ] R22_1 4K7
     [ ] R23_1 100R
-    [ ] R24_1 6K8
+    [ ] R24_1 6K8 
     [ ] R25_1 300R
     [ ] R26_1 300R
+    [ ] R27_1 25K5 
 
+    Right Channel
 
+    Resistors
+    [ ] R20_2 4K7
+    [ ] R21_2 100R
+    [ ] R22_2 4K7
+    [ ] R23_2 100R
+    [ ] R24_2 6K8 
+    [ ] R25_2 300R
+    [ ] R26_2 300R
+    [ ] R27_2 25K5 
 ```
