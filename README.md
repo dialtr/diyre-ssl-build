@@ -257,6 +257,21 @@
     [ ] R25_1 300R
     [ ] R26_1 300R
     [ ] R27_1 25K5 
+    [ ] RA2_1 10K (Orientation doesn't matter on this array)
+    [ ] RA2_1 10K (Orientation doesn't matter on this array)
+    [ ] VR1_1 50K (Marked incorrectly as 5K on some PCBs)
+
+    Capacitors
+    [ ] C11_1 22u
+    [ ] C12_1 22u
+    [ ] C13_1 100u
+    [ ] C14_1 22p   (Look almost identical to 100p's, examine markings.) 
+    [ ] C15_1 100u
+    [ ] C16_1 220u
+    [ ] C17_1 100p
+    [ ] C18_1 100p  (Look almost identical to 22p's, examine markings.)
+    [ ] C19_1 100u
+    [ ] C20_1 22u
 
     Right Channel
 
@@ -269,4 +284,21 @@
     [ ] R25_2 300R
     [ ] R26_2 300R
     [ ] R27_2 25K5 
+    [ ] RA2_2 10K (Orientation doesn't matter on this array)
+    [ ] RA2_2 10K (Orientation doesn't matter on this array)
+    [ ] VR1_2 50K (Marked incorrectly as 5K on some PCBs)
+
+    Capacitors
+    [ ] C11_2 22u
+    [ ] C12_2 22u
+    [ ] C13_2 100u
+    [ ] C14_2 22p   (Look almost identical to 100p's, examine markings.) 
+    [ ] C15_2 100u
+    [ ] C16_2 220u
+    [ ] C17_2 100p
+    [ ] C18_2 100p  (Look almost identical to 22p's, examine markings.)
+    [ ] C19_2 100u
+    [ ] C20_2 22u
+
+
 ```
