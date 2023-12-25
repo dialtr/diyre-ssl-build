@@ -391,3 +391,27 @@
     [ ] Perform Filter Test - Left
     [ ] Perform Filter Test - Right
 ```
+
+## 9. Sidechain VCA
+```
+    Left Channel
+
+    Resistors
+    [ ] R46_1  1M
+    [ ] R47_1  20K
+    [ ] R48_1  20K
+    [ ] R49_1  20K
+    [ ] R50_1  10K
+    [ ] R51_1  3K9
+    [ ] R52_1  15K
+    [ ] R53_1  47R
+    [ ] R54_1  47R
+    [ ] R55_1  47K
+    [ ] R56_1  470R
+    [ ] R57_1  470R
+    [ ] R58_1  33K
+
+
+
+
+```
