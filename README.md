@@ -411,6 +411,58 @@
     [ ] R57_1  470R
     [ ] R58_1  33K
 
+    Capacitors
+    [ ] C30_1  6U8 Tantalum (long lead positive)
+    [ ] C31_1  22P
+    [ ] C32_1  100P
+
+    Diodes
+    [ ] D6_1  
+    [ ] D7_1
+    [ ] D8_1 
+    [ ] D9_1
+    [ ] D10_1
+
+    Integrated Circuits
+    [ ] Solder adapter to VCA
+    [ ] Install VCA
+    [ ] Install LF347
+     
+
+    Right Channel
+
+    Resistors
+    [ ] R46_2  1M
+    [ ] R47_2  20K
+    [ ] R48_2  20K
+    [ ] R49_2  20K
+    [ ] R50_2  10K
+    [ ] R51_2  3K9
+    [ ] R52_2  15K
+    [ ] R53_2  47R
+    [ ] R54_2  47R
+    [ ] R55_2  47K
+    [ ] R56_2  470R
+    [ ] R57_2  470R
+    [ ] R58_2  33K
+
+    Capacitors
+    [ ] C30_2  6U8 Tantalum (long lead positive)
+    [ ] C31_2  22P
+    [ ] C32_2  100P
+
+    Diodes
+    [ ] D6_2  
+    [ ] D7_2
+    [ ] D8_2 
+    [ ] D9_2
+    [ ] D10_2
+
+    Integrated Circuits
+    [ ] Solder adapter to VCA
+    [ ] Install VCA
+    [ ] Install LF347
+     
 
 
 
