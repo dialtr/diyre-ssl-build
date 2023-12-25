@@ -387,4 +387,7 @@
     Integrated Circuit
     [ ] IC5_2  NE5532 - Install into socket
  
+    Tests
+    [ ] Perform Filter Test - Left
+    [ ] Perform Filter Test - Right
 ```
