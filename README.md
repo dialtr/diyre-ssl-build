@@ -462,8 +462,36 @@
     [ ] Solder adapter to VCA
     [ ] Install VCA
     [ ] Install LF347
-     
+```
 
+## Step 10: Meter, Attack and Release
+```
+    Resistors
+    [ ] R50  1K
+    [ ] R60  2K2
+    [ ] VR3  5K Pot
 
+    [ ] R61  820R
+    [ ] R62  2K7
+    [ ] R63  8K2
+    [ ] R64  27K
+    [ ] R65  82K
+    [ ] R66  270K
+    [ ] R67  3M3
 
+    [ ] R68  180K
+    [ ] R69  270K
+    [ ] R70  560K
+    [ ] R71  1M2
+    [ ] R72  750K
+    [ ] R73  91K
+ 
+    Capacitors
+    [ ] C33  0.47U
+    [ ] C34  0.47U
+    [ ] C35  0.47U
+    [ ] C36  0.47U
+    [ ] C37  6U8
+    [ ] C38  0.47U   
+  
 ```
