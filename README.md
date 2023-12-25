@@ -309,3 +309,82 @@
     [ ] IC3_2 NE5532
 
 ```
+
+## Step 7: Audio VCA
+
+```
+    Left Channel
+
+    Resistors
+    [ ] R28_1  10K
+    [ ] R29_1  3K
+    [ ] R30_1  47K
+    [ ] R31_1  47K
+    [ ] R32_1  10K
+    [ ] R33_1  10K
+    [ ] R34_1  27K
+    [ ] R35_1  1K
+    [ ] R36_1  130K
+    [ ] R37_1  5K1
+    [ ] R38_1  15K
+    [ ] R39_1  470R
+    [ ] R40_1  10K 
+
+    Capacitors
+    [ ] C21_1  22pF
+    [ ] C22_1  22uF
+    [ ] C23_1  100pF
+    [ ] C24_1  22uF 
+ 
+    Diodes
+    [ ] D4_1
+    [ ] D5_1
+
+    ICs
+    [ ] IC4_1  NE5532
+    [ ] VCA1A_1  THAT2181
+
+```
+
+## Step 8: Filter
+```
+    Left Channel
+
+    Resistors
+    [ ] R41_1  10K
+    [ ] R42_1  1K
+    [ ] R43_1  20K
+    [ ] R44_1  20K
+    [ ] R45_1  20K
+
+    Capacitors
+    [ ] C25_1  22P
+    [ ] C26_1  82N
+    [ ] C27_1  3N3
+    [ ] C28_1  22P
+    [ ] C29_1  22U
+
+    Integrated Circuit
+    [ ] IC5_1  NE5532 - Install into socket
+  
+
+    Right Channel
+
+    Resistors
+    [ ] R41_2  10K
+    [ ] R42_2  1K
+    [ ] R43_2  20K
+    [ ] R44_2  20K
+    [ ] R45_2  20K
+
+    Capacitors
+    [ ] C25_2  22P
+    [ ] C26_2  82N
+    [ ] C27_2  3N3
+    [ ] C28_2  22P
+    [ ] C29_1  22U
+
+    Integrated Circuit
+    [ ] IC5_2  NE5532 - Install into socket
+ 
+```
