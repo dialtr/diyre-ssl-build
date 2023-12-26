@@ -464,7 +464,7 @@
     [ ] Install LF347
 ```
 
-## Step 10: Meter, Attack and Release
+## Step 10.1: Meter, Attack and Release
 ```
     Resistors
     [ ] R50  1K
@@ -493,5 +493,41 @@
     [ ] C36  0.47U
     [ ] C37  6U8
     [ ] C38  0.47U   
-  
+     
+```
+
+## Step 10.2: Ratio Compoonents
+```
+    Resistors
+    [ ] R74  620K
+    [ ] R75  68K
+    [ ] R76  510K
+    [ ] R77  270K
+    [ ] R78  3M9
+    [ ] R79  1M8
+    [ ] R80  1M2
+    [ ] R81  620K
+    [ ] R82  68K
+    [ ] R83  270K
+    [ ] R84  510K
+    [ ] R85  3M9
+    [ ] R86  1M8
+    [ ] R87  1M2
+    [ ] R88  91K
+    [ ] R89  470K
+    [ ] R90  100R
+    [ ] R91  100K
+    [ ] R92  620K
+    [ ] VR4  50K  Trimmer
+
+    Capacitors
+    [ ] C39  10U  (Non-polarized)
+    [ ] C40  10U  (Non-polarized)
+    [ ] C41  10U  (Non-polarized)
+    [ ] C42  10U  (Non-polarized)
+    [ ] C43  100P
+
+    Diodes
+    [ ] D12 
+    [ ] D13 
 ```
