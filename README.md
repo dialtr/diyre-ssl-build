@@ -2,6 +2,10 @@
 
 ## Step 1: Bypass Caps and IC Sockets 
 
+The bypass capacitors and IC sockets are handled in one pass.  The checklist below is organized
+by the area of the PCB where the parts are to be installed. Subsequent sections are organized
+slightly differently.
+
 ```
     Power 12V
     [ ] CB1
@@ -15,10 +19,10 @@
     [ ] IC1 - 14 Pin IC Socket Lower Right of PCB
  
     Balanced Input / Output L
-    [ ] CB7_1 - 
-    [ ] CB8_1 - 
-    [ ] CB9_1 - 
-    [ ] CB10_1 - 
+    [ ] CB7_1 
+    [ ] CB8_1 
+    [ ] CB9_1 
+    [ ] CB10_1
     [ ] IC2_1 - 8 Pin IC Socket
     [ ] IC3_1 - 8 Pin IC Socket
  
@@ -103,62 +107,62 @@
     Control Board 1: (Threshold, Make-up)
 
     Resistors
-    [ ] R1_CB 4K7
-    [ ] R2_CB 22K
-    [ ] R3_CB 16K
-    [ ] R4_CB 2K7
+    [ ] R1_CB  4K7
+    [ ] R2_CB  22K
+    [ ] R3_CB  16K
+    [ ] R4_CB  2K7
 
     Connectors
-    [ ] CON2_CB 16-pin Connector
-    [ ] CON3_CB 12-pin Connector 
+    [ ] CON2_CB  16-pin Connector
+    [ ] CON3_CB  12-pin Connector 
 
     Potentiometers
-    [ ] VR1_CB B50K Threshold
-    [ ] VR2_CB B50K Make-up
+    [ ] VR1_CB  B50K Threshold
+    [ ] VR2_CB  B50K Make-up
 
     Rotary Switches
-    [ ] SW1_CB 2x6
-    [ ] SW2_CB 2x6
-    [ ] SW3_CB 2x6
+    [ ] SW1_CB  2x6
+    [ ] SW2_CB  2x6
+    [ ] SW3_CB  2x6
  
 
     Control Board 2: (Mix) 
 
     Resistors
-    [ ] R5_CB 4K99
-    [ ] R6_CB 820R
-    [ ] R7_CB 510R
-    [ ] R8_CB 220R
-    [ ] R9_CB 150R
-    [ ] R10_CB 4K99
-    [ ] R11_CB 820R
-    [ ] R12_CB 510R
-    [ ] R13_CB 220R
-    [ ] R14_CB 150R
+    [ ] R5_CB  4K99
+    [ ] R6_CB  820R
+    [ ] R7_CB  510R
+    [ ] R8_CB  220R
+    [ ] R9_CB  150R
+    [ ] R10_CB  4K99
+    [ ] R11_CB  820R
+    [ ] R12_CB  510R
+    [ ] R13_CB  220R
+    [ ] R14_CB  150R
 
     Capacitors   
-    [ ] C1_CB 100uF
-    [ ] C2_CB 100uF 
-    [ ] C3_CB 0.15uF
-    [ ] C4_CB 0.1uF
-    [ ] C5_CB 68n
-    [ ] C6_CB 0.15uF
-    [ ] C7_CB 0.1uF
-    [ ] C8_CB 68n
+    [ ] C1_CB  100U
+    [ ] C2_CB  100U 
+    [ ] C3_CB  0.15U
+    [ ] C4_CB  0.1uU
+    [ ] C5_CB  68N
+    [ ] C6_CB  0.15U
+    [ ] C7_CB  0.1U
+    [ ] C8_CB  68N
  
     Connectors
-    [ ] CON4_CB 26-pin Connector
+    [ ] CON4_CB  26-pin Connector
 
     Rotary Switches
-    [ ] SW5_CB 2x6
-    [ ] SW9_CB 4x3
+    [ ] SW5_CB  2x6
+    [ ] SW9_CB  4x3
  
    
     Pushbutton Switch Board
-    [ ] SW6_CB DPDT Switch
-    [ ] SW7_CB DPDT Switch  
-    [ ] SW8_CB DPDT Switch
-    [ ] CON6B_CB 4-pin Header
+    [ ] SW6_CB  DPDT Switch
+    [ ] SW7_CB  DPDT Switch  
+    [ ] SW8_CB  DPDT Switch
+    [ ] CON6B_CB  4-pin Header
 
     Miscellaneous
     [ ] Mount pushbutton sub-board
